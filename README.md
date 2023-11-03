@@ -8,5 +8,6 @@
      - Lspconfig
      - Emmet
      - Others
+     - Edit Server
  
 ### Terima kasih
